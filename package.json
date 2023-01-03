@@ -1,0 +1,22 @@
+{
+  "name": "k2.reborn.art.scene",
+  "displayName": "K2-Reborn-Art-Scene",
+  "version": "0.0.1",
+  "description": "k2场景美术资源",
+  "license": "MIT",
+  "unity": "2021.3.6f1",
+  "keywords": [
+    "k2",
+    "k2-reborn",
+    "art",
+    "scene",
+    "package-template"
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "heibe.zzj",
+    "email": "heibe.zzj@gmail.com",
+    "wchat": "lychee-tree"
+  }
+}
